@@ -11,3 +11,7 @@ Contains SQL queries for:
 - Identifying top artists and genres
 - Calculating customer spending
 - Ranking by popularity and revenue
+
+## Tables Used
+`employee`, `customer`, `invoice`, `invoice_line`, `track`, `album`, `artist`, `genre`
+
